@@ -110,7 +110,7 @@ export default function YouTubeDownloader() {
         <div className="text-center space-y-4 pt-8">
           <div className="inline-flex items-center gap-2 bg-gradient-primary bg-clip-text text-transparent">
             <Video className="w-8 h-8 text-primary" />
-            <h1 className="text-4xl font-bold">YouTube Downloader</h1>
+            <h1 className="text-4xl font-bold">StreetTech Downloader</h1>
           </div>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             Baixe vídeos do YouTube em alta qualidade, até 4K. Cole a URL, escolha a qualidade e baixe instantaneamente.
